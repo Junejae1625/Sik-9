@@ -14,4 +14,5 @@ root.render(
 );
 
 // 주석입니다.
+// actions 테스트
 reportWebVitals();
