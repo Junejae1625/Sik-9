@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>식구(가제) 입니다.</p>
+        <p>안녕하세요.</p>
         <a
           className="App-link"
           href="https://reactjs.org"
